@@ -154,7 +154,29 @@ section {
     margin-bottom: 10px;
     height: 200px;
 }
+.foofer {
+    background: #000;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 40px;
+}
 
+.foofer .name {
+    color: #fff;
+    font-size: 35px;
+    font-family: 700;
+    font-family: "Roboto";
+    text-shadow: 0px 2px 3px;
+}
+
+.foofer p {
+    color: 15px;
+    color: #fff;
+}
+
+.foofer .name span {
+    color: cyan;
+}
 @media (max-width:800px) {
     .card {
         width: 70%;
