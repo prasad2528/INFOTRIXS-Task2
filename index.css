@@ -162,6 +162,9 @@ section {
         height: 700px;
         margin: 20px 20px;
     }
+    .navbar {
+        height: 80px;
+    }
 }
 
 @media (max-width:500px) {
